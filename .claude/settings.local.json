@@ -3,7 +3,9 @@
     "allow": [
       "Bash(dir \"C:\\Users\\Admin\\OneDrive\\ER\\Arduino\\Templates\\Escape-Room\\Templates\\ESP32\\lib\")",
       "Bash(dir:*)",
-      "Bash(pio run:*)"
+      "Bash(pio run:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
